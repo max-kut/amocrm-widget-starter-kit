@@ -1,0 +1,34 @@
+{
+    "widget": {
+        "name": "widget.name",
+        "description": "widget.description",
+        "short_description": "widget.short_description",
+        "version": "0.1.0",
+        "interface_version": 2,
+        "init_once": true,
+        "locale": [
+            "ru"
+        ],
+        "installation": true,
+        "is_showcase": false,
+        "support": {
+            "link": "https://amoconnect.ru/support",
+            "email": "support@amoconnect.ru"
+        }
+    },
+    "locations": [
+        "everywhere",
+        "settings",
+        "advanced_settings"
+    ],
+    "settings": {
+        "params": {
+            "name": "settings.params",
+            "type": "custom",
+            "required": false
+        }
+    },
+    "advanced": {
+        "title": "advanced.title"
+    }
+}

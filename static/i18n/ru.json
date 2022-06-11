@@ -1,0 +1,13 @@
+{
+    "widget":{
+        "name": "amoPro",
+        "short_description":"тестовый виджет",
+        "description": "описание тестового виджета"
+    },
+    "settings": {
+        "params": "настройки"
+    },
+    "advanced": {
+        "title": "⚙️ amoPro"
+    }
+}
