@@ -1,4 +1,4 @@
-import {setDeps} from './dependensies';
+import {setDeps} from './dependencies';
 import Widget from './Widget';
 
 define(['jquery'], ($) => {
