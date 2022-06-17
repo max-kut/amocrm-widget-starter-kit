@@ -7,7 +7,7 @@
     "type": "module",
     "dependencies": {},
     "devDependencies": {
-        "@amopro/widget-installer": "^3.0.0",
+        "@amopro/widget-installer": "^4.0.0",
         "@babel/core": "^7.11.6",
         "@babel/plugin-proposal-class-properties": "^7.13.0",
         "@babel/plugin-proposal-class-static-block": "^7.12.13",
